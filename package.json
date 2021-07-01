@@ -1,6 +1,6 @@
 {
   "name": "finerjq-ui",
-  "version": "0.1.0",
+  "version": "0.2.0-0",
   "private": false,
   "main": "lib/finerjq-ui.umd.min.js",
   "scripts": {
