@@ -4,7 +4,11 @@
 
 <script>
 export default {
-  name: 'jqSwitch'
+  name: 'jqSwitch',
+  data() {
+    return {
+    }
+  }
 }
 </script>
 
