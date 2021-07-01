@@ -1,5 +1,5 @@
 <template>
-  <div>Switch组件</div>
+  <div class="switch">Switch组件</div>
 </template>
 
 <script>
@@ -7,3 +7,10 @@ export default {
   name: 'jqSwitch'
 }
 </script>
+
+<style scoped>
+.switch {
+  color: #00B95F;
+  font-size: 24px;
+}
+</style>
